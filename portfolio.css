@@ -124,12 +124,12 @@ main {
 .about-items {
     display: flex;
     justify-content: space-around;
+    text-align: center;
+
 }
 
 .item-description {
     font-weight: 600;
-    /* text-align: center; */
-
 }
 
 .item-title {
